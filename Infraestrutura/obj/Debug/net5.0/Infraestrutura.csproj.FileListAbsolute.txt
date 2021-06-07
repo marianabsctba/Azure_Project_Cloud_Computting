@@ -1,0 +1,12 @@
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\bin\Debug\net5.0\Infraestrutura.deps.json
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\bin\Debug\net5.0\Infraestrutura.dll
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\bin\Debug\net5.0\ref\Infraestrutura.dll
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\bin\Debug\net5.0\Infraestrutura.pdb
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.dll
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\ref\Infraestrutura.dll
+C:\Users\Cliente\source\repos\ProjetoRegistroDoacao\Infraestrutura\obj\Debug\net5.0\Infraestrutura.pdb

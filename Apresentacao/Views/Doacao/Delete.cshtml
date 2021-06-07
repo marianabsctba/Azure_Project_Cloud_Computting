@@ -1,0 +1,62 @@
+﻿@model Infraestrutura.Models.DoacaoModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="corVermelha">Deletar doação cadastrada</h1>
+
+<h3>Vem certeza que deseja excluir as informações??</h3>
+<div>
+    <h4>DoacaoModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Frete)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Frete)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantidade)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Quantidade)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataRegistro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataRegistro)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteFromMemory" asp-route-id="@Model.Id">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a class="btn btn-primary" href="/home/index" role="button">Voltar</a>
+    </form>
+</div>
