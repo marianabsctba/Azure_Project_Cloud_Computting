@@ -33,27 +33,6 @@ namespace Infraestrutura.Repositories
                  Quantidade = 1,
             }
             };
-
-        public DoacaoModel Create(DoacaoModel doacaoModel)
-        {
-            throw new NotImplementedException();
-        }
-
-        public DoacaoModel Edit(DoacaoModel doacaoModel)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<DoacaoModel> GetAll(string search)
-        {
-            throw new NotImplementedException();
-        }
-
-        public DoacaoModel GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
         DoacaoModel IDoacaoRepository.Create(DoacaoModel doacaoModel)
         {
             Doacoes.Add(doacaoModel);
@@ -122,7 +101,6 @@ namespace Infraestrutura.Repositories
                     return doacao;
                 }
             }
-
             return null;
         }
     }
